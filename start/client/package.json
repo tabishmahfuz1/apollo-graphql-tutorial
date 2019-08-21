@@ -5,17 +5,17 @@
   "dependencies": {
     "@apollo/react-hooks": "3.0.0",
     "@reach/router": "^1.2.1",
-    "apollo-cache-inmemory": "^1.6.2",
-    "apollo-client": "^2.6.3",
+    "apollo-cache-inmemory": "^1.6.3",
+    "apollo-client": "^2.6.4",
     "apollo-link-http": "^1.5.15",
     "emotion": "^9.2.12",
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
     "polished": "^3.4.1",
-    "react": "^16.9.0-alpha.0",
-    "react-dom": "^16.9.0-alpha.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-emotion": "^9.2.12",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,8 +34,8 @@
   ],
   "devDependencies": {
     "@apollo/react-testing": "3.0.0",
-    "@testing-library/jest-dom": "^4.0.0",
-    "@testing-library/react": "^8.0.7",
-    "apollo": "^2.16.3"
+    "@testing-library/jest-dom": "^4.0.1",
+    "@testing-library/react": "^8.0.9",
+    "apollo": "^2.18.0"
   }
 }
